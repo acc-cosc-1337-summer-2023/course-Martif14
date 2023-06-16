@@ -1,6 +1,3 @@
-//write include statements
 
-int main() 
-{
-	return 0;
-}
+
+//write include statements
