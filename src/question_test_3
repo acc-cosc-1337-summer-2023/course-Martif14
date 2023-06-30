@@ -1,0 +1,6 @@
+TEST_CASE("Validate number is in range 1 to 15"){
+    get_fib_number(5)
+    get_fib_number(7)
+    get_fib_number(10)
+    get_fib_number(12)
+}

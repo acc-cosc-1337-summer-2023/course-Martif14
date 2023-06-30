@@ -1,0 +1,3 @@
+TEST_CASE("Verify true or false"){
+    if abcba == true else false
+}

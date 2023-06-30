@@ -1,0 +1,7 @@
+TEST_CASE("Verify expected sales"){
+    get_sales_commission(100)==5
+    get_sales_commission(750)==45
+    get_sales_commission(1100)==77
+    get_sales_commission(1750)==140
+}
+}

@@ -1,0 +1,11 @@
+
+
+bool Dictionary::is_palindrome(abcba)
+{
+
+  if(!is_palindrome(abcba)=false){   
+
+  }else{  
+
+  }
+

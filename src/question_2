@@ -1,0 +1,24 @@
+double gpa_to_letter_grade(0,4);
+{
+        if(3.5>4)
+        {
+                cout<<"A";
+        }
+        else if(3>3.49)
+        {
+                cout<<"B";
+        }
+        else if(2>2.99)
+        {
+                cout<<"C";
+        }
+        else if(1>1.99)
+        {
+                cout<<"D";
+        }
+        else if(0>.99)
+        {
+                cout<<"f";
+        }
+        return 0
+}
